@@ -1,0 +1,16 @@
+{
+  "name": "guides-nodejs",
+  "version": "1.0.0",
+  "description": "An example metrics app written in nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0",
+    "kardia": "0.9.0"
+  }
+}
